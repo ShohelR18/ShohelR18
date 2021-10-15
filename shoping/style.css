@@ -1,0 +1,14 @@
+.cart-items{
+ gap: 100px;
+    justify-content: center;
+  
+}
+
+.cart-row{
+    display: flex;
+    background: cyan;
+    justify-content: space-around;
+ 
+   
+  
+}
