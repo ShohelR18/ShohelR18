@@ -1,14 +1,17 @@
-.cart-items{
- gap: 100px;
-    justify-content: center;
-  
+img{
+    width: 200px;
+    height: 200px;
 }
-
-.cart-row{
-    display: flex;
-    background: cyan;
-    justify-content: space-around;
- 
-   
-  
+.shop-item{
+    border: 1px solid;
+    margin: 30px;
+}
+.item-img{
+    width: 100px;
+    height: 100px;
+}
+.item-qty{
+    width: 70px;
+    font-weight: 700;
+    font-size: 18px;
 }
